@@ -30,6 +30,7 @@
 var rules = {
   "~*x hello ~*y": [
     "How do you do. Please state your problem."
+    "Wnat to go back to bed? I know I do"
   ],
   "~*x computer ~*y": [
     "Do computers worry you?",
@@ -39,14 +40,17 @@ var rules = {
     "What about computers worries you?",
     "What do you think about computers?",
     "What do you think machines have to do with your problem?",
+    "I dont know what to say im an old ass chatbox. Get a life and some friends"
   ],
   "~*x name ~*y": [
     "I am not interested in names",
+    "DADDY"
   ],
   "~*x sorry ~*y": [
     "Please don't apologize",
     "Apologies are not necessary",
     "What feelings do you have when you apologize",
+    "Sorry daddy"
   ],
   "~*x I remember ~*y": [
     "Do you often think of ~y?",
@@ -55,12 +59,14 @@ var rules = {
     "Why do you recall ~y right now?",
     "What in the present situation reminds you of ~y?",
     "What is the connection between me and ~y?",
+    "I remeber u daddy "
   ],
   "~*x do you remember ~*y": [
     "Did you think I would forget ~y?",
     "Why do you think I should recall ~y now?",
     "What about ~y?",
     "You mentioned ~y",
+    "do u remeber when u told me u loved me "
   ],
   "~*x I want ~*y": [
     "What would it mean if you got ~y?",
